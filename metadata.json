@@ -1,0 +1,6 @@
+{
+  "name": "Arithmetic for Kids",
+  "description": "An interactive, colorful math learning adventure for children with multi-operation games (Fruit Addition, Balloon Subtraction, Star Matrices, Cookie Sharing), a fluid digital Sandbox lab, sound-vibe feedback, custom explorer profiles (Bear, Rabbit, Frog, Lion, Monkey), achievements and gold stars in a local Room database wrapper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
